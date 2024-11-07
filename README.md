@@ -6,7 +6,9 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 
 🛠️ Stacks
+
 ![Redis](https://img.shields.io/badge/Redis-FF4438.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+
 
 💪🏼 Tools 
 

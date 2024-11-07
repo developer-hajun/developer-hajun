@@ -8,7 +8,8 @@ A developer who thinks, researches, creates, and connects to practical realizati
 🛠️ Stacks
 
 <img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-181717?style=flat-square&logo=Redis&logoColor=red"/> <img src="https://img.shields.io/badge/MySql-181717?style=flat-square&logo=MySql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/PostgreSQL-181717?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-181717?style=flat-square&logo=Spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-181717?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-181717?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-181717?style=flat-square&logo=jQuery&logoColor=white"/> 
+
 
 
 💪🏼 Tools 

@@ -28,7 +28,6 @@ A developer who thinks, researches, creates, and connects to practical realizati
 🏆 Awards
 |Competition|Prize|Date|
 |------|---|---|
-|Microsoft News Recommendation|World 2nd Prize|Oct 21, 2020|
-|Kaggle Man/Female Predict Competition|1st|Jan 25, 2019|
+|Dev Day|Encouragement Award|August 21, 2023|
 
 

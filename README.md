@@ -7,7 +7,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 🛠️ Stacks
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=Python&logoColor=white"/> 
 
 
 💪🏼 Tools 

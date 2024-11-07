@@ -19,6 +19,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 🐱 About Me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-hajun)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-hajun)](https://github.com/anuraghazra/github-readme-stats)
 
 🏅 Algorithm Gold Level. 

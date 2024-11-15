@@ -31,5 +31,6 @@
 |Competition|Prize|Date|
 |------|---|---|
 |Dev Day|Encouragement Award|August 21, 2023|
+|Fair Day|Grand Prize|November 14, 2024|
 
 

@@ -1,6 +1,6 @@
 ### Hi Welcome, i'm Hajun 👋
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![hajun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=developer-hajun&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### Backend Developer / DataBase Engineering
 - We pursue stable service!

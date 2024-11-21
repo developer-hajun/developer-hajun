@@ -1,5 +1,7 @@
 ### Hi Welcome, i'm Hajun 👋
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 #### Backend Developer / DataBase Engineering
 - We pursue stable service!
 - Always consider the user’s perspective during the development process!
@@ -10,7 +12,6 @@
 
 <img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-181717?style=flat-square&logo=Redis&logoColor=red"/> <img src="https://img.shields.io/badge/MySql-181717?style=flat-square&logo=MySql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/PostgreSQL-181717?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-181717?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/C++-181717?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/jAVA-181717?style=flat-square&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-181717?style=flat-square&logo=Spring Security&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20EC2-181717?style=flat-square&logo=Amazon%20EC2&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20S3-181717?style=flat-square&logo=Amazon%20S3&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/QueryDSL-181717?style=flat-square&logo=QueryDSL&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-181717?style=flat-square&logo=MyBatis&logoColor=white"/> 
-
 
 
 💪🏼 Tools 

@@ -12,7 +12,7 @@
 
 | Period | Company | Role |
 |--------|---------|------|
-| 2026.10 ~ | **현대오토에버 (Hyundai AutoEver)** | 신입 입사 |
+| 2026.10 ~ | **현대오토에버 (Hyundai AutoEver)** | IOT솔루션팀 |
 
 ---
 
